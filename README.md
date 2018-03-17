@@ -8,5 +8,5 @@ An old Xcode test project of mine from many years ago. The code was written in O
 - Use delete key to remove the selected curve.
 
 ### The First Whale
-A screenshot of a whale illustration I made using the app built from this project.
+A screenshot of a whale illustration I made using this app back in 2013.
 ![The First Whale](the_first_whale_by_iammutun.png)
