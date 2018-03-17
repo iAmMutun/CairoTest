@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Cairo Test' target in the 'Cairo Test' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
