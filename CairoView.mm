@@ -259,7 +259,6 @@
 
 - (void)rightMouseDown:(NSEvent *)theEvent {
   if (state == 3) {
-    NSLog(@"Tests");
     state = 0;
   }
   [self setNeedsDisplay:YES];
